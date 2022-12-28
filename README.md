@@ -21,7 +21,7 @@ Users are able to:
 
 ## Technologies
 
-- Html
-- Css (BEM methodology "Block Element Modifier")
+- HTML
+- CSS (BEM methodology "Block Element Modifier")
 - Javascript
 
